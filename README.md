@@ -1,3 +1,3 @@
 # BMI Calculator
 
-Kindly navigate to master brance to access the .ipynb and .json file
+Kindly navigate to master branch to access the .ipynb and .json file
